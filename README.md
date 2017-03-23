@@ -1,5 +1,5 @@
 # Requirements
- - PHP 5.3+
+ - PHP 5 (≥ 5.3.0)
  - cURL extension enabled
  - An Internet connection to send a POST request to the GitHub API
  - Parent directory for Chrome added to your system path
@@ -15,6 +15,4 @@
 
 ---
 
-<kbd>
 ![Markdown Previewer](example.png)
-</kbd>
